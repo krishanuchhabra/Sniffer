@@ -1,2 +1,2 @@
-# Sniffer
-Sniffer in python using rawsockets
+# Packet Sniffer
+Sniffer in python using raw sockets
